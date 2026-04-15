@@ -1,0 +1,5 @@
+Model,Threshold,Accuracy,Balanced_Accuracy,Macro_F1,ROC_AUC
+Logistic Regression,0.34,0.7377,0.5307,0.5216,0.441
+Random Forest,0.57,0.8033,0.5684,0.5684,0.5967
+Gradient Boosting,0.3,0.8361,0.5342,0.5379,0.5377
+XGBoost,0.53,0.8197,0.6309,0.6241,0.5377
